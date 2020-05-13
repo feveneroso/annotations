@@ -12,10 +12,11 @@ annotation -> local ( Robson )
 git status - mostra os arquivos que foram alterados e novos
 git diff - mostra a diferença entre o arquivo na trackeado e o arquivo fora da area de stage
 git add - adiciona os arquivos na are de stage
-git commit- commita o seu arquivo/atleraçoes no seu repo local.... 
-git push
-git pull
+git commit -m 'mensagen do commit' - commita o seu arquivo/atleraçoes no seu repo local.... 
+git push - sobe para origin / github
+git pull - 
 git clone
+glog --max-count=5 -> exibe os 5 utlimos commits
 
 
 c4 - 4
