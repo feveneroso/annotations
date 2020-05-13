@@ -14,8 +14,8 @@ git diff - mostra a diferença entre o arquivo na trackeado e o arquivo fora da 
 git add - adiciona os arquivos na are de stage
 git commit -m 'mensagen do commit' - commita o seu arquivo/atleraçoes no seu repo local.... 
 git push - sobe para origin / github
-git pull - 
-git clone
+git pull - traz todas as atualizaçoes/modificaçoes que estão no origin mas não estão no seu repo local
+git clone -
 glog --max-count=5 -> exibe os 5 utlimos commits
 
 
