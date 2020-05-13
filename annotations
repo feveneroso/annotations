@@ -1,12 +1,27 @@
-Here we will put many git's commands that we will need use....
-
+﻿
 1 - Git Basic Commands:
 
-git clone
-git pull
-git add 
-git push
-git commit
-git log...
+git -> tool to control version 
+github ->
 
-Explico amanhã...
+annotation -> origin ( github ) 
+
+annotation -> local ( Fernando ) 
+annotation -> local ( Robson )
+
+git status - mostra os arquivos que foram alterados e novos
+git diff
+git add 
+git commit
+git push
+git pull
+git clone
+
+
+
+2 - Linux Basic Commands
+
+pwd   -> show the path of dir
+ls -l -> list al visible files/dir
+cd -> open path
+cd .. -> last path
