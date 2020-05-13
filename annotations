@@ -10,14 +10,18 @@ annotation -> local ( Fernando )
 annotation -> local ( Robson )
 
 git status - mostra os arquivos que foram alterados e novos
-git diff
-git add 
-git commit
+git diff - mostra a diferença entre o arquivo na trackeado e o arquivo fora da area de stage
+git add - adiciona os arquivos na are de stage
+git commit- commita o seu arquivo/atleraçoes no seu repo local.... 
 git push
 git pull
 git clone
 
 
+c4 - 4
+c3 - 3
+c2 - 2
+c1 - 1
 
 2 - Linux Basic Commands
 
